@@ -1,10 +1,10 @@
 // Global constants
-const clueHoldTime = 1000; // how long to hold each clue's light & sound
 const cluePauseTime = 333; // how long to pause in between clues
 const nextClueWaitTime = 1000; // how long to wait before starting playback of the clue sequence
 
 // Global variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4]; // secret pattern of button presses
+var pattern = []; // secret pattern of button presses
+var clueHoldTime = 1000; // how long to hold each clue's light & sound
 var progress = 0; // how far along player is in guessing the pattern (index of pattern array)
 var gamePlaying = false;
 
@@ -14,9 +14,17 @@ var volume = 0.5; // must be between 0.0 and 1.0
 var guessCounter = 0; // resets to 0 every new turn (next clue sequence)
 
 function startGame() {
+  pattern = [];
+  clueHoldTime = 1000
   // initialize game variables
   progress = 0;
   gamePlaying = true;
+  
+  // create random sequence
+  for (let i = 0; i < 8; i++) {
+    pattern.push(Math.floor(Math.random() * 6) + 1);
+    console.log(pattern);
+  }
 
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.add("hidden");
@@ -34,10 +42,22 @@ function stopGame() {
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2,
+  1: 770.6,
+  2: 1000.6,
+  3: 655.5,
+  4: 567.2,
+  5: 732.2,
+  6: 499.2,
+  
+ 
+  /*
+  1: 246.6,
+  2: 473.6,
+  3: 555.5,
+  4: 667.2,
+  5: 421.2,
+  6: 278.2,
+ */
 };
 
 // Plays tone for a specified amount of time
@@ -96,6 +116,7 @@ function playSingleClue(btn) {
 }
 
 function playClueSequence() {
+  clueHoldTime -= 110; // playback is faster each sequence
   // context.resume()
   guessCounter = 0;
   let delay = nextClueWaitTime; // running total of how long in the future to play the next clue
