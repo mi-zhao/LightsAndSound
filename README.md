@@ -4,7 +4,7 @@
 
 Submitted by: **Michelle Zhao**
 
-Time spent: **6** hours spent in total
+Time spent: **11** hours spent in total
 
 Link to project: https://lights-and-sound-game.glitch.me/
 
