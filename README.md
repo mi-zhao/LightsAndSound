@@ -44,7 +44,7 @@ Working buttons:
 ![lightsandsoundbuttons](https://user-images.githubusercontent.com/102488390/161336995-ac83b95a-ef6e-4474-a0f6-403b3c0cdf2f.gif)
 
 
-Winning screen:
+Winning screen with the buttons increasing in speed each round:
 ![lightsandsoundwin](https://user-images.githubusercontent.com/102488390/161336340-35e3628f-8faa-48f8-b93a-926e99a3e35f.gif)
 
 
