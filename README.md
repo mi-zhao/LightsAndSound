@@ -41,13 +41,16 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Working buttons:
-![](lightsandsoundwinbuttons.gif)
+![lightsandsoundbuttons](https://user-images.githubusercontent.com/102488390/161336333-4bf4ccbc-3f23-4b15-a011-c6320c3c68b3.gif)
+
 
 Winning screen:
-![](lightsandsoundwin.gif)
+![lightsandsoundwin](https://user-images.githubusercontent.com/102488390/161336340-35e3628f-8faa-48f8-b93a-926e99a3e35f.gif)
+
 
 Losing screen:
-![](lightsandsoundlose.gif)
+![lightsandsoundfail](https://user-images.githubusercontent.com/102488390/161336352-ce166e1b-c08b-49d0-96fe-1ea9fdfbff75.gif)
+
 
 
 ## Reflection Questions
