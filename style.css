@@ -13,18 +13,22 @@ html {
 /* adjust typography defaults */
 body {
   margin: 2em;
-  font-family: helvetica, arial, sans-serif;
-  background-color: slategrey;
+  font-size:20px;
+  font-family: Arial, sans-serif;
+  background-color: LightSlateGray;
   color:white;
+  text-align: center;
   /* font-style?*/
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif;
-}
+  font-family: Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: Thistle;}
 
 button {
-  font-size:15px;
+  font-size:115x;
   font-family: verdana, arial, sans-serif;
   padding: 10px;
   border-radius: 15px;
@@ -33,8 +37,10 @@ button {
 #startStopBtn > button {
   font-family: verdana, arial, sans-serif;
   color: white;
-  background: #8697A8;
+
+  font-size:20px;  background: #8697A8;
   margin:auto;
+  text-align: left;
 }
 
 #gameButtonArea > button { /* targets the four game buttons by id */
