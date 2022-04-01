@@ -49,7 +49,7 @@ Winning screen with the buttons increasing in speed each round:
 
 
 Losing screen:
-![lightsandsoundfail](https://user-images.githubusercontent.com/102488390/161338044-27b1ce6f-03f6-44bc-9a2b-da883ebbdf9a.gif)
+![lightsandsoundfail](https://user-images.githubusercontent.com/102488390/161338245-0befa92f-33ba-4939-8f09-dd3553db396b.gif)
 
 
 
