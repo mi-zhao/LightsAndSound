@@ -4,7 +4,7 @@
 
 Submitted by: **Michelle Zhao**
 
-Time spent: **12** hours spent in total
+Time spent: **18** hours spent in total
 
 Link to project: https://lights-and-sound-game.glitch.me/
 
@@ -43,11 +43,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 Working buttons:
 ![](lightsandsoundwinbuttons.gif)
 
-
 Winning screen:
 ![](lightsandsoundwin.gif)
-
-
 
 Losing screen:
 ![](lightsandsoundlose.gif)
