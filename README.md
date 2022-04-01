@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
+![](lightsandsoundwin.gif)
+![](lightsandsoundlose.gif)
+![](lightsandsoundwinbuttons.gif)
 ![](gif4-link-here)
 
 ## Reflection Questions
