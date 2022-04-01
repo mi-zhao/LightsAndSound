@@ -55,6 +55,7 @@ Losing screen:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
 https://www.w3schools.com/css/css3_buttons.asp
 
 https://www.smashingmagazine.com/2009/11/designing-css-buttons-techniques-and-resources/
@@ -79,7 +80,7 @@ While working on this project, there were many suggestions in the pre-work docum
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://vimeo.com/695039647)
 
 
 ## License
