@@ -54,7 +54,7 @@ Losing screen:
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
 https://www.w3schools.com/css/css3_buttons.asp
 
 https://www.smashingmagazine.com/2009/11/designing-css-buttons-techniques-and-resources/
