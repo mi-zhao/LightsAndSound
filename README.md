@@ -4,7 +4,7 @@
 
 Submitted by: **Michelle Zhao**
 
-Time spent: **11** hours spent in total
+Time spent: **12** hours spent in total
 
 Link to project: https://lights-and-sound-game.glitch.me/
 
@@ -50,16 +50,23 @@ Losing screen:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://www.w3schools.com/css/css3_buttons.asp
+https://www.smashingmagazine.com/2009/11/designing-css-buttons-techniques-and-resources/
+https://www.cloudhadoop.com/javascript-random-array/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+When creating the Light and Sound Memory Game, I was challenged to code the final guess function to complete the logic behind the game. While I was able to put together the conditional logic of the guess function, I had to take a step back and figure out why my game didn’t display the win message. I had to do some trial and error in an attempt to find my error, such as moving the conditional statements around and ensuring that I was comparing the correct variables. I was persistent in trying to search for the issue myself, finding myself in frustration. I then paused and clearly thought about what actions I had to take, realizing that I could analyze each set of instructions to determine the issue. I thought back to what tool had helped me in numerous programming projects in the past few years: debugging. Debugging has been a lifesaver in my past projects, and learning how to properly debug has become a useful skill in my programming journey. I recollected the tip given in the pre-work documentation of using the console logging feature and decided to take advantage of it. Following each step of user input, I dissected the code step by step and line by line in order to search for the error that was causing the bug. With patience, I was able to capture how I could alter my code to completely form the logic of the game. The final challenge of creating the guess function at the end of this pre-work helped me encapsulate this memory game into this final project. While combating this situation myself and stubbornly figuring out my mistakes, I was able to learn and thoroughly understand how the variables are implemented and its behaviors within each function.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+This project opened my eyes to the world of web development and gave me a clear idea of how different coding languages can be used together in website projects. This side of programming is very foreign to me and I’ve yet to fully understand it. Given this, are there any limitations to implementing additional coding languages in the files of websites? For example, when it comes to old-school flash player games, how are additional features such as those implemented inside a website, and are there any limitations? Is this possible, and with that in mind, how do web developers in a big company collaborate with other teams of computer engineers to piece together a final project? How do web developers approach problems differently from software developers?
+
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+While working on this project, there were many suggestions in the pre-work documentation of “tinkering” or “playing around with the numbers” of different components as a way to make the game more customizable. If I were given more time, I would make changes to the features and styles of the game, making it more extendable. I would add more visual elements to the website that would be useful for the players of the game. This includes features such as a tally for how many lives the user has left and a working timer counting down to the milliseconds to add competitive pressure in the game. These few additional add-ons would change the player experience and could completely change the atmosphere of a game. With even more given time, I’d want to create different levels of difficulty to encourage players to advance in the game. With this, I would be able to explore the different elements and features that I could add to these websites and test if there are any limitations to the world of web development. 
 
 
 
