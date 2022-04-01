@@ -41,8 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Working buttons:
-![lightsandsoundbuttons](https://user-images.githubusercontent.com/102488390/161336900-194e75a1-edac-4a97-8a32-f4b68edd53bf.gif)
-
+![lightsandsoundbuttons](https://user-images.githubusercontent.com/102488390/161336995-ac83b95a-ef6e-4474-a0f6-403b3c0cdf2f.gif)
 
 
 Winning screen:
